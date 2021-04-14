@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/11 16:24:31.000.313,=C:\Users\danilo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/22 13:55:38.000.711,=C:\Users\danilo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/25 14:25:35.000.120,=C:\Users\danilo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/25 14:27:00.000.223,C:\Users\danilo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\danilo\Documents\Embarcadero\Studio\Projects\UCadastroAlunos.pas</Transaction>
+    <Transaction>2021/01/25 14:27:00.000.223,C:\Users\danilo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\danilo\Documents\Embarcadero\Studio\Projects\UCadastroAlunos.dfm</Transaction>
+    <Transaction>2021/01/25 14:28:08.000.568,C:\Users\danilo\Documents\Embarcadero\Studio\Projects\UCadastroAlunos.dfm=D:\Projetos 2\ORM Parte 2\UCadastroAlunos.dfm</Transaction>
+    <Transaction>2021/01/25 14:28:08.000.568,C:\Users\danilo\Documents\Embarcadero\Studio\Projects\UCadastroAlunos.pas=D:\Projetos 2\ORM Parte 2\UCadastroAlunos.pas</Transaction>
+    <Transaction>2021/01/25 14:28:24.000.589,C:\Users\danilo\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos 2\ORM Parte 2\ORM.dproj</Transaction>
+    <Transaction>2021/01/26 16:22:47.000.284,=D:\Projetos 2\ORM Parte 2\Unit1.pas</Transaction>
+    <Transaction>2021/01/27 14:22:29.000.597,=D:\Projetos 2\ORM Parte 2\Unit1.pas</Transaction>
+    <Transaction>2021/01/27 14:23:47.000.401,D:\Projetos 2\ORM Parte 2\Controller.pas=D:\Projetos 2\ORM Parte 2\Unit1.pas</Transaction>
+    <Transaction>2021/01/27 14:30:29.000.482,D:\Projetos 2\ORM Parte 2\UController.pas=D:\Projetos 2\ORM Parte 2\Controller.pas</Transaction>
+    <Transaction>2021/02/03 13:25:35.000.416,=D:\Projetos 2\ORM Project 2\ORM Parte 2\Unit1.pas</Transaction>
+    <Transaction>2021/02/03 13:29:32.000.760,D:\Projetos 2\ORM Project 2\ORM Parte 2\Unit1.pas=D:\Projetos 2\ORM Project 2\ORM Parte 2\UFiltro.pas</Transaction>
+    <Transaction>2021/02/03 13:35:18.000.272,D:\Projetos 2\ORM Project 2\ORM Parte 2\UFiltro.pas=D:\Projetos 2\ORM Project 2\ORM Parte 2\UFiltragem.pas</Transaction>
+  </Transactions>
+</BorlandProject>
