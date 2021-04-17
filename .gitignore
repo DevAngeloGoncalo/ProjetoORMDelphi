@@ -51,3 +51,5 @@ __history/UORMGeral.pas.~5~
 *.~49~
 *.~36~
 *.~5~
+*.local
+*.stat
